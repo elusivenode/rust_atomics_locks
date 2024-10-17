@@ -1,0 +1,8 @@
+[package]
+name = "thread_with_closure"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mach = "0.3"
+libc = "0.2"
